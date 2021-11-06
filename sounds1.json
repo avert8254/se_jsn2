@@ -1,6 +1,8 @@
 {
   "ver":1.0,
   "se":{
+    "10":{"url":"https://github.com/avert8254/se_jsn2/raw/main/SE_AGARI.wav"},
+    "11":{"url":"https://github.com/avert8254/se_jsn2/raw/main/SE_YAKU.wav"},
     "25":{"url":"https://github.com/avert8254/se_jsn2/raw/main/pon.wav"},
     "26":{"url":"https://github.com/avert8254/se_jsn2/raw/main/pon.wav"},
     "27":{"url":"https://github.com/avert8254/se_jsn2/raw/main/kan.wav"},
